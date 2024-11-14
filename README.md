@@ -1,1 +1,1 @@
-# sim-anything.github.io
+# Sim-GS.github.io
